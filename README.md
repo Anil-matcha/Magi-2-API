@@ -125,7 +125,7 @@ People search for "uncensored Magi 2", "Magi 2 spicy" and "Magi 2 NSFW AI video"
 
 1. **Open weights are not automatically uncensored.** Self-hosting removes a provider's hosted moderation layer, but it does not show that the model itself is low-filter, and it does not remove the license terms or your legal obligations. Test the exact checkpoint you plan to use.
 2. **Hosted endpoints have their own moderation behavior.** How a given Muapi endpoint treats mature prompts can differ from the open weights and from other endpoints. Test the specific endpoint; do not assume.
-3. **"Spicy" on Muapi is a specific, labelled tier.** Muapi's spicy endpoints apply relaxed (reduced) automated content moderation. For those, see [Spicy AI Video Generator API](https://github.com/Anil-matcha/Spicy-AI-Video-Generator-API), [Wan-3.0-Spicy-API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) and [Seedance-2.5-Spicy-API](https://github.com/Anil-matcha/Seedance-2.5-Spicy-API), and the [catalog of uncensored video models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models).
+3. **"Spicy" on Muapi is a specific, labelled tier.** Muapi's spicy endpoints apply relaxed (reduced) automated content moderation. For those, see the spicy video repositories listed under [Related Projects](#related-projects).
 
 > **Content policy notice:** Muapi's [terms](https://muapi.ai/terms) and applicable law apply to every endpoint. Do not generate content involving minors, non-consensual imagery of real people, or other prohibited material.
 
