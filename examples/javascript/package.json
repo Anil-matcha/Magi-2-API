@@ -1,0 +1,10 @@
+{
+  "name": "magi-2-api-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Magi 2 text-to-video and image-to-video examples for the Muapi API",
+  "scripts": { "start": "node magi2.mjs" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
